@@ -1,4 +1,4 @@
-Course webpage for EAS 503
+Course webpage for CSE 474/574
 ---------------------------------------
 
 The webpage source is in ``./source/``.
