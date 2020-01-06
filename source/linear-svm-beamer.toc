@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Maximum Margin Classifiers}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Linear Classification via Hyperplanes}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Concept of Margin}{9}{0}{1}
+\beamer@sectionintoc {2}{Support Vector Machines}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{SVM Learning}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Solving SVM Optimization Problem}{18}{0}{2}
+\beamer@sectionintoc {3}{Constrained Optimization and Lagrange Multipliers}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{Kahrun-Kuhn-Tucker Conditions}{40}{0}{3}
+\beamer@subsectionintoc {3}{2}{Support Vectors}{42}{0}{3}
+\beamer@subsectionintoc {3}{3}{Optimization Constraints}{50}{0}{3}
