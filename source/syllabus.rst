@@ -1,4 +1,4 @@
-.. CSE474 course webpage documentation master file, created by
+.. CSE474574 course webpage documentation master file, created by
    sphinx-quickstart on Fri Mar 17 21:28:07 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -8,7 +8,7 @@ Syllabus
 
 `Computer Science and Engineering <http://www.cse.buffalo.edu/>`_, University at Buffalo 
 
-Spring Semester 2019
+Spring Semester 2020
 
 
 .. raw:: html
@@ -23,11 +23,7 @@ Instructors
 
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
-* `Jialiang Jiang <http://www.cse.buffalo.edu/~jjiang6>`_ (teaching assistant; jjiang6[at]buffalo.edu) 
-
-* `Arshad Zaidi <http://www.cse.buffalo.edu/~szaidi2>`_ (teaching assistant; szaidi2[at]buffalo.edu) 
-
-* `Yanbo Guo <http://www.cse.buffalo.edu/~yanboguo>`_ (teaching assistant; yanboguo[at]buffalo.edu) 
+* TBA 
 
 .. note::
    Students are strongly encouraged to use the Piazza's private messaging option to contact the intructors to ensure that the messages are dealt with promptly. 
@@ -38,20 +34,9 @@ https://cse.buffalo.edu/~chandola/machinelearning.html
 
 Meeting times and locations
 ----------------------------
-* Mondays, Wednesdays and Fridays, 9.00 AM - 9.50 AM, 121 Cooke Hall. 
+* Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
 
-* Chandola Office Hours: Wednesdays, Fridays, 10.00 AM - 11.00 AM, 213 Capen Hall.
-* Jiang Office Hours: Wednesdays, 3.00 PM - 4.00 PM, 212 Capen Hall. 
-* Zaidi Office Hours: Tuesdays, 11.30 AM - 12.30 PM, 212 Capen Hall.
-* Guo Office Hours: Mondays, 3.00 PM - 4.00 PM, 212 Capen Hall.
-
-.. note::
-  Students should be enrolled in one of the following recitation sections:
-
-  * `Recitation Section 1 <http://www.buffalo.edu/class-schedule?switch=showclass&semester=spring&regnum=18113>`_
-  * `Recitation Section 2 <http://www.buffalo.edu/class-schedule?switch=showclass&semester=spring&regnum=18114>`_
-  * `Recitation Section 3 <http://www.buffalo.edu/class-schedule?switch=showclass&semester=spring&regnum=20576>`_
-  * `Recitation Section 4 <http://www.buffalo.edu/class-schedule?switch=showclass&semester=spring&regnum=23337>`_
+* Chandola Office Hours: TBA 
 
 Prerequisites
 ---------------
@@ -121,19 +106,19 @@ Course Deliverables
 +---------------+--------------+-----------+
 | Deliverable   | Release Date | Due Date  |
 +===============+==============+===========+
-| Gradiance 0   | Jan 28       |  *Feb 3*  |
+| Gradiance 0   | Jan 29       |  *Feb 4*  |
 +---------------+--------------+-----------+
-| Gradiance 1   | Feb 4        |  Feb 10   |
+| Gradiance 1   | Feb 5        |  Feb 11   |
 +---------------+--------------+-----------+
-| :gr:`PA 1`    | :gr:`Feb 6`  |:gr:`Mar 6`|
+| :gr:`PA 1`    | :gr:`Feb 11` |:gr:`Mar 6`|
 +---------------+--------------+-----------+
-| Gradiance 2   | Feb 11       |  Feb 17   |
+| Gradiance 2   | Feb 12       |  Feb 18   |
 +---------------+--------------+-----------+
-| Gradiance 3   | Feb 18       |  Feb 24   |
+| Gradiance 3   | Feb 19       |  Feb 25   |
 +---------------+--------------+-----------+
 | :gr:`PA 2`    | :gr:`Mar 6`  |:gr:`Apr 3`|
 +---------------+--------------+-----------+
-| Gradiance 4   | Feb 25       |  Mar 3    |
+| Gradiance 4   | Feb 26       |  Mar 3    |
 +---------------+--------------+-----------+
 | Gradiance 5   | Mar 4        |  Mar 10   |
 +---------------+--------------+-----------+
@@ -157,10 +142,10 @@ Course Deliverables
 .. note::
   * Gradiance quizzes
 
-    * Will be released every Monday at 9.00 AM EST
-    * Due next Sunday at 11.59 PM EST
+    * Will be released every Wednesday at 9.00 AM EST
+    * Due next Tuesday at 11.59 PM EST
     * Gradiance 0 will not be evaluated (warm up)
-    * Gradiance 6 will be released on March 12 but will be due on March 25
+    * Gradiance 6 will be released on March 11 but will be due on March 24 due to Spring Recess
 
   * All assignments are electronically due on Wednesdays by 08.59 AM EST through UBLearns.
   * Hard copies of assignment reports will be due in-class on Wednesdays before the end of the class.
@@ -170,46 +155,12 @@ Assignments
   * Programming Assignment 1 - This assignment will focus on building linear models for supervised learning. This will include implementing a linear regression model for regression, and three classification models, viz., logistic regression, perceptron, and support vector machine (SVM).
   * Programming Assignment 2 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
   * Programming Assignment 3 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. After completing this assignment, you should be able to understand:
+
       * How a Naive Bayes classifier works and how to incorporate prior information into the model?
       * How bias in the training data could lead to a biased and unfair machine learning model? Within this topic you will learn:
+
            * How to measure bias (or fairness) of an algorithm with respect to bias-sensitive information?
            * How to artificially induce bias in the training data and study the impact of the training data bias on the clasification bias.
-
-Recitation Schedule
--------------------
-+------+----------------------------------------------+
-| Week | Topic                                        |
-+======+==============================================+
-| 1    | *No Recitation*                              |
-+------+----------------------------------------------+
-| 2    | Linear Algebra Review (Part 1)               |
-+------+----------------------------------------------+
-| 3    | Linear Algebra Review (Part 2)               |
-+------+----------------------------------------------+
-| 4    | Optimization Basics                          |
-+------+----------------------------------------------+
-| 5    | Python Basics (Part 1)                       |
-+------+----------------------------------------------+
-| 6    | Python Basics (Part 2)                       |
-+------+----------------------------------------------+
-| 7    | Midterm Review                               |
-+------+----------------------------------------------+
-| 8    | *Spring Break*                               |
-+------+----------------------------------------------+
-| 9    | Probability Theory Review                    |
-+------+----------------------------------------------+
-| 10   | Statistical Distributions Review             |
-+------+----------------------------------------------+
-| 11   | Using `scikit-learn`                         |
-+------+----------------------------------------------+
-| 12   | Decision Trees and Random Forests            |
-+------+----------------------------------------------+
-| 13   | Clustering Methods Review                    |
-+------+----------------------------------------------+
-| 14   | Dimensionality Reduction Methods             |
-+------+----------------------------------------------+
-| 15   | Finals Review                                |
-+------+----------------------------------------------+
 
 Course Texts
 ---------------
@@ -221,11 +172,10 @@ Course Texts
 
 Grading
 ---------
-* Class participation -- 5%
 * Short weekly quizzes using Gradiance (12) -- 20%
-* Programming Assignments (3) -- 30%
-* Mid-term Exam (in-class, open book/notes) -- 20%
-* Final Exam (in-class, open book/notes) -- 25%
+* Programming Assignments (3) -- 45%
+* Mid-term Exam (in-class, open book/notes) -- 15%
+* Final Exam (in-class, open book/notes) -- 20%
 
 * All components will be individually curved
 * Final grade (*Tentative*)
@@ -244,8 +194,8 @@ Grading
 
 Exams
 ---------------
-* **Mid-term Exam** March 15, 8.00 AM - 10.00 AM, 121 Cooke Hall
-* **Final Exam** May 15, 8.00 AM - 11.00 AM, 121 Cooke Hall
+* **Mid-term Exam** March 13, 1.00 PM - 2.00 PM, 20 Knox Hall
+* **Final Exam** May 15, 11.45 AM - 02.45 PM, 20 Knox Hall
 
 Expectations
 -------------
@@ -260,7 +210,7 @@ Expectations
 
 Accessibility Services and Special Needs
 -----------------------------------------
-If you have a disability and may require some type of instructional and/or examination accommodation, please inform me early in the semester so that we can coordinate the accommodations you may need. If you have not already done so, please contact the Office of Accessibility Services (formerly the Office of Disability Services) University at Buffalo, 25 Capen Hall, Buffalo, NY 14260-1632; email: stu-accessibility@ buffalo.edu Phone: 716-645-2608 (voice); 716-645-2616 (TTY); Fax: 716-645-3116; and on the web at http://www.buffalo.edu/accessibility/. All information and documentation is confidential. The University at Buffalo and the School of Engineering and Applied Sciences are committed to ensuring equal opportunity for persons with special needs to participate in and benefit from all of its programs, services and activities.
+If you have a disability and may require some type of instructional and/or examination accommodation, please inform me early in the semester so that we can coordinate the accommodations you may need. If you have not already done so, please contact the Office of Accessibility Services (formerly the Office of Disability Services) University at Buffalo, 25 Capen Hall, Buffalo, NY 14260-1632; email: stu-accessibility@buffalo.edu Phone: 716-645-2608 (voice); 716-645-2616 (TTY); Fax: 716-645-3116; and on the web at http://www.buffalo.edu/accessibility/. All information and documentation is confidential. The University at Buffalo and the School of Engineering and Applied Sciences are committed to ensuring equal opportunity for persons with special needs to participate in and benefit from all of its programs, services and activities.
 
 Academic Integrity
 -------------------

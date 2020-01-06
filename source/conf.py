@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# CSE474 course webpage documentation build configuration file, created by
+# CSE474/574 course webpage documentation build configuration file, created by
 # sphinx-quickstart on Fri Mar 17 21:28:07 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'CSE 474 - Introduction to Machine Learning'
+project = 'CSE 474/574 - Introduction to Machine Learning'
 copyright = '2020, Varun Chandola'
 author = 'Varun Chandola'
 
@@ -122,7 +122,7 @@ html_context = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CSE474coursewebpagedoc'
+htmlhelp_basename = 'CSE474574coursewebpagedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -149,7 +149,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'CSE474coursewebpage.tex', 'CSE474 course webpage Documentation',
+    (master_doc, 'CSE474574coursewebpage.tex', 'CSE474/574 course webpage Documentation',
      'Varun Chandola', 'manual'),
 ]
 
@@ -159,7 +159,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'cse474coursewebpage', 'CSE474 course webpage Documentation',
+    (master_doc, 'cse474574coursewebpage', 'CSE474/574 course webpage Documentation',
      [author], 1)
 ]
 
@@ -170,8 +170,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'CSE474coursewebpage', 'CSE474 course webpage Documentation',
-     author, 'CSE474coursewebpage', 'One line description of project.',
+    (master_doc, 'CSE474coursewebpage', 'CSE474/574 course webpage Documentation',
+     author, 'CSE474574coursewebpage', 'CSE474/574 course webpage Documentation',
      'Miscellaneous'),
 ]
 
