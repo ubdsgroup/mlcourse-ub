@@ -150,17 +150,17 @@ Course Deliverables
   * All assignments are electronically due on Wednesdays by 08.59 AM EST through UBLearns.
   * Hard copies of assignment reports will be due in-class on Wednesdays before the end of the class.
 
-Assignments
------------
+Assignments (Tentative Schedule)
+---------------------------------
   * Programming Assignment 1 - This assignment will focus on building linear models for supervised learning. This will include implementing a linear regression model for regression, and three classification models, viz., logistic regression, perceptron, and support vector machine (SVM).
-  * Programming Assignment 2 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
-  * Programming Assignment 3 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. After completing this assignment, you should be able to understand:
+  * Programming Assignment 2 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. After completing this assignment, you should be able to understand:
 
       * How a Naive Bayes classifier works and how to incorporate prior information into the model?
       * How bias in the training data could lead to a biased and unfair machine learning model? Within this topic you will learn:
 
            * How to measure bias (or fairness) of an algorithm with respect to bias-sensitive information?
            * How to artificially induce bias in the training data and study the impact of the training data bias on the clasification bias.
+  * Programming Assignment 3 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
 
 Course Texts
 ---------------
@@ -200,11 +200,12 @@ Exams
 Expectations
 -------------
 * Students are expected to act in a professional manner. A student’s grade may be reduced due to unprofessional or disruptive behavior. Examples include coming to class late, texting (or otherwise using your cell phone) during class, your cell phone ringing during class and/or exams, etc.
-* Homework assignments will be assigned for each module. Homework assignments are due at the beginning of class.
-* Homework and programming assignments will be graded and returned to students.
-* Late submission of assignments will receive a grade of zero.
+* Programming assignments will be graded and returned to students.
+* :red:`Late submission of assignments will receive a grade of zero.`
+* :red:`No late submission of Gradiance quizzes are allowed. The quizzes will automatically become unavailable immediately after the due date and no accomodations will be made for missed quizzes.`
 * Students are encouraged to discuss assignments and share ideas, but each student must independently write and submit their own solution.
 * Makeup exams will be given in the following circumstances only: 
+
   1. You contact the instructor prior to the exam
   2. You have a valid and documented reason to miss the exam
 
