@@ -36,7 +36,7 @@ Meeting times and locations
 ----------------------------
 * Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
 
-* Chandola Office Hours: TBA 
+* Chandola Office Hours: 12.00 PM - 2.00 PM, 213 Capen Hall (Inside Capen 212 Suite) 
 
 Prerequisites
 ---------------
