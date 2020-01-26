@@ -23,7 +23,10 @@ Instructors
 
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
-* TBA 
+* Pranav Girish Sankhe (TA; pranavgi[at]buffalo.edu)
+* Yang Zhao (TA; yzhao63[at]buffalo.edu)
+* Lin Huang (TA; lhuang27[at]buffalo.edu)
+* Dakota Handzlik (UTA; dh33[at]buffalo.edu))
 
 .. note::
    Students are strongly encouraged to use the Piazza's private messaging option to contact the intructors to ensure that the messages are dealt with promptly. 
@@ -37,6 +40,12 @@ Meeting times and locations
 * Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
 
 * Chandola Office Hours: 12.00 PM - 2.00 PM, 213 Capen Hall (Inside Capen 212 Suite) 
+
+* Sankhe Office Hours: TBA
+
+* Zhao Office Hours: TBA
+
+* Huang Office Hours: TBA
 
 Prerequisites
 ---------------
@@ -55,50 +64,58 @@ Topic Schedule
 +------------+-----------------------------------+--------------------------------------------------------------+
 | **Supervised Learning::Linear Models**                                                                        |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 2          | Linear Regression                 | Linear Algebra,Gradient Descent Optimization, Matrix Calculus|
+| 1          | Linear Regression                 | Linear Algebra,Gradient Descent Optimization, Matrix Calculus|
 +------------+-----------------------------------+--------------------------------------------------------------+
 | 2          | Logistic Regression/Perceptrons   | Newton's Method                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 3          | Support Vector Machines           | Constrained Optimization, Lagrangian Methods                 |
+| 2-3        | Support Vector Machines           | Constrained Optimization, Lagrangian Methods                 |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | **Supervised Learning::Non-linear Models**                                                                    |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | 4          | Non-linear Regression             |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 5          | Regularization                    |                                                              |
+| 4          | Regularization                    |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 6-7        | Neural Networks                   |                                                              |
-+------------+-----------------------------------+--------------------------------------------------------------+
-| :red:`Spring Break`                                                                                           |
+| 5-6        | Neural Networks                   |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | **Kernel Methods**                                                                                            |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 9          | Kernel Regression                 |                                                              |
+| 7          | Kernel Regression                 |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 9          | Kernel Support Vector Machines    |                                                              |
+| 7          | Kernel Support Vector Machines    |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| **Statistical Learning**                                                                                      |
+| :red:`Spring Break`                                                                                           |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 10         | Generative Models                 | Laws of Probability, Statistical Distributions, Moments      |
+| **Statistical Learning** (Continued)                                                                          |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 11         | Bayesian Learning Methods         | Bayes Rule                                                   |
+| 9          | Generative Models                 | Laws of Probability, Statistical Distributions, Moments      |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 12         | Bayesian Classification           |                                                              |
+| 9-10       | Bayesian Learning Methods         | Bayes Rule                                                   |
++------------+-----------------------------------+--------------------------------------------------------------+
+| 10         | Bayesian Classification           |                                                              |
 |            |                                   |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 12         | Bayesian Linear Regression        |                                                              |
+| 11         | Bayesian Linear Regression        |                                                              |
++------------+-----------------------------------+--------------------------------------------------------------+
+| **Fairness and Transparency Issues**                                                                          |
++------------+-----------------------------------+--------------------------------------------------------------+
+| 12         | Fairness in Machine Learning      |                                                              |
+|            | (PA3 Review)                      |                                                              |
++------------+-----------------------------------+--------------------------------------------------------------+
+| 12         | Interpretable Models              |                                                              |
+|            | (Decision Trees)                  |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | **Unsupervised Learning**                                                                                     |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | 13         | Clustering (k-Means/Spectral)     | Linear Algebra (Eigenvalue Decomposition)                    |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 14         | Mixture Models (Expectation       |                                                              |
-|            | Maximization)                     |                                                              |
-+------------+-----------------------------------+--------------------------------------------------------------+
-| 15         | Dimensionality Reduction Methods  |                                                              |
+| 14         | Dimensionality Reduction Methods  |                                                              |
 |            | (Principal Component Analysis)    |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-
+| **Reinforcement Learning**                                                                                    |
++------------+-----------------------------------+--------------------------------------------------------------+
+| 15         | Reinforcement Learning            |                                                              |
++------------+-----------------------------------+--------------------------------------------------------------+
 
 Course Deliverables
 -------------------
@@ -153,13 +170,7 @@ Course Deliverables
 Assignments (Tentative Schedule)
 ---------------------------------
   * Programming Assignment 1 - This assignment will focus on building linear models for supervised learning. This will include implementing a linear regression model for regression, and three classification models, viz., logistic regression, perceptron, and support vector machine (SVM).
-  * Programming Assignment 2 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. After completing this assignment, you should be able to understand:
-
-      * How a Naive Bayes classifier works and how to incorporate prior information into the model?
-      * How bias in the training data could lead to a biased and unfair machine learning model? Within this topic you will learn:
-
-           * How to measure bias (or fairness) of an algorithm with respect to bias-sensitive information?
-           * How to artificially induce bias in the training data and study the impact of the training data bias on the clasification bias.
+  * Programming Assignment 2 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. 
   * Programming Assignment 3 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
 
 Course Texts
@@ -169,6 +180,7 @@ Course Texts
 * Chris Bishop, Pattern Recognition and Machine Learning, Springer, 2006.
 * David Mackay, Information Theory, Inference, and Learning Algorithms, Cambridge Press, 2003.
 * Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistical Learning. Springer, 2009.
+* Richard S. Sutton and Andrew G. Bart, Reinforcement Learning: An Introduction. MIT Press, 2015.
 
 Grading
 ---------
@@ -195,7 +207,7 @@ Grading
 Exams
 ---------------
 * **Mid-term Exam** March 13, 1.00 PM - 2.00 PM, 20 Knox Hall
-* **Final Exam** May 15, 11.45 AM - 02.45 PM, 20 Knox Hall
+* **Final Exam** May 15, 7.15 PM - 10.15 PM, 101 Davis Hall/114 Hoch Hall
 
 Expectations
 -------------
