@@ -10,6 +10,14 @@ CSE474/574
    faqs
    glossary
 
+Blogs
+-----
+.. postlist::
+   :list-style: circle
+   :category: Manual
+   :format: {title}
+   :sort:
+
 Other Links
 -----------
 
