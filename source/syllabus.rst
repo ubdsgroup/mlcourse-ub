@@ -39,15 +39,19 @@ Meeting times and locations
 ----------------------------
 * Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
 
-* Chandola Office Hours: Tuesdays, 12.00 PM - 2.00 PM, 213 Capen Hall (Inside Capen 212 Suite) 
-
-* Sankhe Office Hours: TBA
-
-* Zhao Office Hours: TBA
-
-* Choi Office Hours: Mondays, 9.30 AM - 10.30 AM, Davis 3rd Floor
-
-* Handzlik Office Hours: TBA
++-----------+-----------------------------+---------------------------------------+
+| Who?      | When?                       | Where?                                |
++===========+=============================+=======================================+
+| Chandola  |Tuesdays, 12.00 PM - 2.00 PM |213 Capen Hall (Inside Capen 212 Suite)|
++-----------+-----------------------------+---------------------------------------+
+| Sankhe    | TBA                         | TBA                                   |
++-----------+-----------------------------+---------------------------------------+
+| Zhao      | TBA                         | TBA                                   |
++-----------+-----------------------------+---------------------------------------+
+| Handzlik  | TBA                         | TBA                                   |
++-----------+-----------------------------+---------------------------------------+
+| Choi      |Mondays, 9.30 AM - 10.30 AM  | Davis 3rd Floor                       |
++-----------+-----------------------------+---------------------------------------+
 
 Prerequisites
 ---------------
