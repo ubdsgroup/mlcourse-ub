@@ -25,7 +25,7 @@ Instructors
 
 * Pranav Girish Sankhe (TA; pranavgi[at]buffalo.edu)
 * Yang Zhao (TA; yzhao63[at]buffalo.edu)
-* Lin Huang (TA; lhuang27[at]buffalo.edu)
+* Seokmin Richard Choi (TA; seokminc[at]buffalo.edu)
 * Dakota Handzlik (UTA; dh33[at]buffalo.edu))
 
 .. note::
@@ -39,13 +39,15 @@ Meeting times and locations
 ----------------------------
 * Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
 
-* Chandola Office Hours: 12.00 PM - 2.00 PM, 213 Capen Hall (Inside Capen 212 Suite) 
+* Chandola Office Hours: Tuesdays, 12.00 PM - 2.00 PM, 213 Capen Hall (Inside Capen 212 Suite) 
 
 * Sankhe Office Hours: TBA
 
 * Zhao Office Hours: TBA
 
-* Huang Office Hours: TBA
+* Choi Office Hours: Mondays, 9.30 AM - 10.30 AM, Davis 3rd Floor
+
+* Handzlik Office Hours: TBA
 
 Prerequisites
 ---------------
@@ -243,7 +245,7 @@ This course will operate with a zero-tolerance policy regarding cheating and oth
    You are allowed to:
 
    1. Have discussions about homeworks. Every student should submit own homework with names of students in the discussion group explicitly mentioned.
-   2. Collaborate in groups of 2 or 3 for programming assignments. One submission is required for each group.
+   2. Collaborate in groups of 3 for programming assignments. One submission is required for each group.
 
 .. warning:: 
    * Violation of ML honor code and departmental policy will result in an automatic F for the concerned submission
