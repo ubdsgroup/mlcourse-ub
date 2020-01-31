@@ -34,8 +34,7 @@ import ablog
 # ones.
 extensions = ['sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
-    'ablog',
-    'sphinx.ext.intersphinx']
+    'ablog']
 
 # 2. Add ablog templates path
 
