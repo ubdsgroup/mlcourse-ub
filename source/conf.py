@@ -21,8 +21,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import ablog
-
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -33,14 +31,7 @@ import ablog
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx.ext.mathjax',
-    'sphinx.ext.githubpages',
-    'ablog']
-
-# 2. Add ablog templates path
-
-# Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
-templates_path.append(ablog.get_html_templates_path())
+    'sphinx.ext.githubpages']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
