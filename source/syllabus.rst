@@ -173,8 +173,8 @@ Course Deliverables
     * Gradiance 0 will not be evaluated (warm up)
     * Gradiance 6 will be released on March 11 but will be due on March 24 due to Spring Recess
 
-  * All assignments are electronically due on Wednesdays by 08.59 AM EST through UBLearns.
-  * Hard copies of assignment reports will be due in-class on Wednesdays before the end of the class.
+  * All assignments are electronically due on Fridays by 12.59 PM EST through UBLearns.
+  * Hard copies of assignment reports will be due in-class on Fridays before the end of the class.
 
 Assignments (Tentative Schedule)
 ---------------------------------
