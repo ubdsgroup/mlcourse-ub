@@ -26,6 +26,7 @@ Instructors
 * Pranav Girish Sankhe (TA; pranavgi[at]buffalo.edu)
 * Yang Zhao (TA; yzhao63[at]buffalo.edu)
 * Seokmin Richard Choi (TA; seokminc[at]buffalo.edu)
+* Zhanghexuan Ji (TA; zhanghex[at]buffalo.edu)
 * Dakota Handzlik (UTA; dh33[at]buffalo.edu))
 
 .. note::
@@ -51,6 +52,8 @@ Meeting times and locations
 | Handzlik  |Wednesdays, 3.00 PM - 5.00 PM  | Capen 212 Student Lounge              |
 +-----------+-------------------------------+---------------------------------------+
 | Choi      |Mondays, 9.30 AM - 10.30 AM    | Davis 3rd Floor                       |
++-----------+-------------------------------+---------------------------------------+
+| Ji        |Mondays, 3.00 PM - 5.00 PM     | Davis 3rd Floor                       |
 +-----------+-------------------------------+---------------------------------------+
 
 Prerequisites
