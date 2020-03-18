@@ -38,7 +38,8 @@ https://cse.buffalo.edu/~chandola/machinelearning.html
 
 Meeting times and locations
 ----------------------------
-* Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
+* _Until March 13th_ - Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
+* From March 23rd - **The lecture will be delivered as recorded videos available on UBLearns, due to the COVID-19 induced transition to online classes.**
 
 +-----------+-------------------------------+---------------------------------------+
 | Who?      | When?                         | Where?                                |
@@ -55,6 +56,9 @@ Meeting times and locations
 +-----------+-------------------------------+---------------------------------------+
 | Ji        |Mondays, 3.00 PM - 5.00 PM     | Davis 3rd Floor                       |
 +-----------+-------------------------------+---------------------------------------+
+
+.. note::
+   All office hours will conducted remotely due to the COVID-19 induced transition to online classes from March 23rd onwards.
 
 Prerequisites
 ---------------
@@ -179,8 +183,8 @@ Course Deliverables
 Assignments (Tentative Schedule)
 ---------------------------------
   * Programming Assignment 1 - This assignment will focus on building linear models for supervised learning. This will include implementing a linear regression model for regression, and three classification models, viz., logistic regression, perceptron, and support vector machine (SVM).
-  * Programming Assignment 2 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. 
-  * Programming Assignment 3 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
+  * Programming Assignment 2 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
+  * Programming Assignment 3 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. 
 
 Course Texts
 ---------------
