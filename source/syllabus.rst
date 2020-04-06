@@ -201,8 +201,6 @@ Grading
 * Programming Assignments (3) -- 45%
 * Mid-term Exam (in-class, open book/notes) -- 15%
 * Final Exam (in-class, open book/notes) -- 20%
-
-* All components will be individually curved
 * Final grade (*Tentative*)
 
 .. hlist::
