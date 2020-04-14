@@ -50,6 +50,8 @@ Documents
      - :download:`slides <fairness-ml-beamer.pdf>` :download:`handouts <fairness-ml-handout.pdf>` :download:`scans <fairness-ml-scans.pdf>`
    * - Fairness primer
      - :download:`fairness primer <Machine_Learning_Fairness_Primer.pdf>`
+   * - Decision Trees
+     - "download:`slides <decision-trees-beamer.pdf>` :download:`handouts <decistion-trees-handout.pdf>` :download:`scans <decision-trees-scans.pdf>`
    * - **Unsupervised Learning**
      - 
    * - Clustering (k-Means/Spectral Methods) 
