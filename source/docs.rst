@@ -56,11 +56,11 @@ Documents
      - 
    * - Clustering (k-Means/Spectral Methods) 
      - :download:`slides <clustering-algorithms-beamer.pdf>` :download:`handouts <clustering-algorithms-handout.pdf>` :download:`scans <clustering-algorithms-scans.pdf>`
-   * - Mixture Models 
-     - :download:`slides <mixture-models-beamer.pdf>` :download:`handouts <mixture-models-handout.pdf>` :download:`scans <mixture-models-scans.pdf>`
-   * - Factor Analysis Models 
-     - :download:`slides <factor-analysis-beamer.pdf>` :download:`handouts <factor-analysis-handout.pdf>` :download:`scans <factor-analysis-scans.pdf>`
    * - Principal Component Analysis 
      - :download:`slides <principal-component-analysis-beamer.pdf>` :download:`handouts <principal-component-analysis-handout.pdf>` :download:`scans <principal-component-analysis-scans.pdf>`
    * - Singular Value Decomposition 
      - :download:`slides <singular-value-decomposition-beamer.pdf>` :download:`handouts <singular-value-decomposition-handout.pdf>` :download:`scans <singular-value-decomposition-scans.pdf>`
+   * - **Reinforcement Learning**
+     -
+   * - Reinforcement Learning Introduction
+     - :download:`slides <reinforcement-learning-beamer.pdf>` :download:`handouts <reinforcement-learning-handout.pdf>` :download:`scans <reinforcement-learning-scans.pdf>`
