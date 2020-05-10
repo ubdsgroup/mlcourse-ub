@@ -67,4 +67,4 @@ Documents
    * - **Machine Learning Best Practices**
      -
    * - Machine Learning Best Practices
-     - :download:`slides <ml-advice-beamer.pdf>` :download:`handouts <ml-advice-handout.pdf>` 
+     - :download:`slides <ml-advice-beamer.pdf>` :download:`handouts <ml-advice-handout.pdf>` :download:`scans <ml-advice-scans.pdf>` 
