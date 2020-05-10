@@ -38,7 +38,7 @@ https://cse.buffalo.edu/~chandola/machinelearning.html
 
 Meeting times and locations
 ----------------------------
-* _Until March 13th_ - Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
+* _Until March 13th _ - Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
 * From March 23rd - **The lecture will be delivered as recorded videos available on UBLearns, due to the COVID-19 induced transition to online classes.**
 
 +-----------+-------------------------------+---------------------------------------+
@@ -128,6 +128,10 @@ Topic Schedule
 | **Reinforcement Learning**                                                                                    |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | 15         | Reinforcement Learning            |                                                              |
++------------+-----------------------------------+--------------------------------------------------------------+
+| **Wrap-up**                                                                                                   |
++------------+-----------------------------------+--------------------------------------------------------------+
+| 16         | Machine Learning Best Practices   |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
 
 Course Deliverables

@@ -64,3 +64,7 @@ Documents
      -
    * - Reinforcement Learning Introduction
      - :download:`slides <reinforcement-learning-beamer.pdf>` :download:`handouts <reinforcement-learning-handout.pdf>` :download:`scans <reinforcement-learning-scans.pdf>`
+   * - **Machine Learning Best Practices**
+     -
+   * - Machine Learning Best Practices
+     - :download:`slides <ml-advice-beamer.pdf>` :download:`handouts <ml-advice-handout.pdf>` 
