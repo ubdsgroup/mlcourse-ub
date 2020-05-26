@@ -39,7 +39,7 @@ https://cse.buffalo.edu/~chandola/machinelearning.html
 Meeting times and locations
 ----------------------------
 * _Until March 13th _ - Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
-* From March 23rd - **The lecture will be delivered as recorded videos available on UBLearns, due to the COVID-19 induced transition to online classes.**
+* From March 23rd - **The lecture will be delivered as recorded videos available on** `UBLearns <https://ub.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=95cf0811-2140-4ead-a4a9-ab44014168ea>`_ [needs UB login], **due to the COVID-19 induced transition to online classes.**
 
 +-----------+-------------------------------+---------------------------------------+
 | Who?      | When?                         | Where?                                |
