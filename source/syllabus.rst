@@ -188,7 +188,7 @@ Assignments (Tentative Schedule)
 ---------------------------------
   * Programming Assignment 1 - This assignment will focus on building linear models for supervised learning. This will include implementing a linear regression model for regression, and three classification models, viz., logistic regression, perceptron, and support vector machine (SVM).
   * Programming Assignment 2 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
-  * Programming Assignment 3 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. 
+  * Programming Assignment 3 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. Focus will be on developing a COMPAS style risk assessment system. 
 
 Course Texts
 ---------------
