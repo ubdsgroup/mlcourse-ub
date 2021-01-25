@@ -22,7 +22,6 @@ Instructors
 
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
-* Yanbo Guo (TA; yanboguo[at]buffalo.edu)
 * Deen Dayal Mohan (TA; dmohan[at]buffalo.edu)
 * Jie Zhang (TA; zhang326[at]buffalo.edu)
 
@@ -47,7 +46,6 @@ Office Hours
    :widths: 20, 40, 30
 
    "Chandola", "Fridays 3.00 PM - 5.00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_
-   "Yanbo","TBA", "TBA"
    "Deen","TBA", "TBA"
    "Jie","TBA", "TBA"
 
