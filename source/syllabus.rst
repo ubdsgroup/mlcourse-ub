@@ -8,8 +8,7 @@ Syllabus
 
 `Computer Science and Engineering <http://www.cse.buffalo.edu/>`_, University at Buffalo 
 
-Spring Semester 2020
-
+**Spring Semester 2021**
 
 .. raw:: html
 
@@ -23,11 +22,9 @@ Instructors
 
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
-* Pranav Girish Sankhe (TA; pranavgi[at]buffalo.edu)
-* Yang Zhao (TA; yzhao63[at]buffalo.edu)
-* Seokmin Richard Choi (TA; seokminc[at]buffalo.edu)
-* Zhanghexuan Ji (TA; zhanghex[at]buffalo.edu)
-* Dakota Handzlik (UTA; dh33[at]buffalo.edu))
+* Yanbo Guo (TA; yanboguo[at]buffalo.edu)
+* Deen Dayal Mohan (TA; dmohan[at]buffalo.edu)
+* Jie Zhang (TA; zhang326[at]buffalo.edu)
 
 .. note::
    Students are strongly encouraged to use the Piazza's private messaging option to contact the intructors to ensure that the messages are dealt with promptly. 
@@ -38,31 +35,28 @@ https://cse.buffalo.edu/~chandola/machinelearning.html
 
 Meeting times and locations
 ----------------------------
-* _Until March 13th _ - Mondays, Wednesdays and Fridays, 1.00 PM - 1.50 PM, 20 Knox Hall. 
-* From March 23rd - **The lecture will be delivered as recorded videos available on** `UBLearns <https://ub.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=95cf0811-2140-4ead-a4a9-ab44014168ea>`_ [needs UB login], **due to the COVID-19 induced transition to online classes.**
-
-+-----------+-------------------------------+---------------------------------------+
-| Who?      | When?                         | Where?                                |
-+===========+===============================+=======================================+
-| Chandola  |Tuesdays, 12.00 PM - 2.00 PM   |213 Capen Hall (Inside Capen 212 Suite)|
-+-----------+-------------------------------+---------------------------------------+
-| Sankhe    |Wednesdays, 10.00 AM - 12.00 PM| Capen 212 Student Lounge              |
-+-----------+-------------------------------+---------------------------------------+
-| Zhao      |Fridays, 10.30 AM - 11.30 AM   | Davis 3rd Floor                       |
-+-----------+-------------------------------+---------------------------------------+
-| Handzlik  |Wednesdays, 3.00 PM - 5.00 PM  | Capen 212 Student Lounge              |
-+-----------+-------------------------------+---------------------------------------+
-| Choi      |Mondays, 9.30 AM - 10.30 AM    | Davis 3rd Floor                       |
-+-----------+-------------------------------+---------------------------------------+
-| Ji        |Mondays, 3.00 PM - 5.00 PM     | Davis 3rd Floor                       |
-+-----------+-------------------------------+---------------------------------------+
+Every Monday, Wednesday and Friday - 1.40 to 2.50 PM, virtually on `Zoom <https://buffalo.zoom.us/j/95608261824>`_ 
 
 .. note::
-   All office hours will conducted remotely due to the COVID-19 induced transition to online classes from March 23rd onwards.
+   All lecture videos will be made available after the class and will be accessible via UBLearns/Panopto
+
+Office Hours
+------------
+.. csv-table:: 
+   :header: "Who?","When?","Where?"
+   :widths: 20, 40, 30
+
+   "Chandola", "Fridays 3.00 PM - 5.00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_
+   "Yanbo","TBA", "TBA"
+   "Deen","TBA", "TBA"
+   "Jie","TBA", "TBA"
 
 Prerequisites
 ---------------
 CSE 250 and (EAS 305 or MTH 411 or STA 301 or MTH 309).
+
+.. note::
+   This course requires a strong background in linear algebra, advanced calculus and statistics. Please refer to the `FAQs <faqs.html>`_ for more.
 
 Topic Schedule
 ---------------
@@ -97,13 +91,11 @@ Topic Schedule
 +------------+-----------------------------------+--------------------------------------------------------------+
 | 7          | Kernel Support Vector Machines    |                                                              |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| :red:`Spring Break`                                                                                           |
-+------------+-----------------------------------+--------------------------------------------------------------+
 | **Statistical Learning** (Continued)                                                                          |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 9          | Generative Models                 | Laws of Probability, Statistical Distributions, Moments      |
+| 8          | Generative Models                 | Laws of Probability, Statistical Distributions, Moments      |
 +------------+-----------------------------------+--------------------------------------------------------------+
-| 9-10       | Bayesian Learning Methods         | Bayes Rule                                                   |
+| 9          | Bayesian Learning Methods         | Bayes Rule                                                   |
 +------------+-----------------------------------+--------------------------------------------------------------+
 | 10         | Bayesian Classification           |                                                              |
 |            |                                   |                                                              |
@@ -137,41 +129,41 @@ Topic Schedule
 Course Deliverables
 -------------------
 
-+---------------+--------------+-----------+
-| Deliverable   | Release Date | Due Date  |
-+===============+==============+===========+
-| Gradiance 0   | Jan 29       |  *Feb 4*  |
-+---------------+--------------+-----------+
-| Gradiance 1   | Feb 5        |  Feb 11   |
-+---------------+--------------+-----------+
-| :gr:`PA 1`    | :gr:`Feb 11` |:gr:`Mar 6`|
-+---------------+--------------+-----------+
-| Gradiance 2   | Feb 12       |  Feb 18   |
-+---------------+--------------+-----------+
-| Gradiance 3   | Feb 19       |  Feb 25   |
-+---------------+--------------+-----------+
-| :gr:`PA 2`    | :gr:`Mar 6`  |:gr:`Apr13`|
-+---------------+--------------+-----------+
-| Gradiance 4   | Feb 26       |  Mar 3    |
-+---------------+--------------+-----------+
-| Gradiance 5   | Mar 4        |  Mar 10   |
-+---------------+--------------+-----------+
-| Gradiance 6   | Mar 11       |  *Mar 24* |
-+---------------+--------------+-----------+
-| Gradiance 7   | Mar 25       |  Mar 31   |
-+---------------+--------------+-----------+
-| :gr:`PA 3`    | :gr:`Apr 13` |:gr:`May 8`|
-+---------------+--------------+-----------+
-| Gradiance 8   | Apr 1        |  Apr 7    |
-+---------------+--------------+-----------+
-| Gradiance 9   | Apr 8        |  Apr 14   |
-+---------------+--------------+-----------+
-| Gradiance 10  | Apr 15       |  Apr 21   |
-+---------------+--------------+-----------+
-| Gradiance 11  | Apr 22       |  Apr 28   |
-+---------------+--------------+-----------+
-| Gradiance 12  | Apr 29       |  May 5    |
-+---------------+--------------+-----------+
++---------------+--------------+------------+
+| Deliverable   | Release Date | Due Date   |
++===============+==============+============+
+| Gradiance 0   | Feb 1        |  *Feb 9*   |
++---------------+--------------+------------+
+| Gradiance 1   | Feb 10       |  Feb 16    |
++---------------+--------------+------------+
+| :gr:`PA 1`    | :gr:`Feb 8`  | :gr:`Mar 5`|
++---------------+--------------+------------+
+| Gradiance 2   | Feb 17       |  Feb 23    |
++---------------+--------------+------------+
+| Gradiance 3   | Feb 24       |  Mar 2     |
++---------------+--------------+------------+
+| :gr:`PA 2`    | :gr:`Mar 8`  | :gr:`Apr 9`|
++---------------+--------------+------------+
+| Gradiance 4   | Mar 3        |  Mar 9     |
++---------------+--------------+------------+
+| Gradiance 5   | Mar 10       |  Mar 16    |
++---------------+--------------+------------+
+| Gradiance 6   | Mar 17       |  Mar 23    |
++---------------+--------------+------------+
+| Gradiance 7   | Mar 24       |  Mar 31    |
++---------------+--------------+------------+
+| :gr:`PA 3`    | :gr:`Apr 12` | :gr:`May 7`|
++---------------+--------------+------------+
+| Gradiance 8   | Apr 1        |  Apr 7     |
++---------------+--------------+------------+
+| Gradiance 9   | Apr 8        |  Apr 14    |
++---------------+--------------+------------+
+| Gradiance 10  | Apr 15       |  Apr 21    |
++---------------+--------------+------------+
+| Gradiance 11  | Apr 22       |  Apr 28    |
++---------------+--------------+------------+
+| Gradiance 12  | Apr 29       |  May 5     |
++---------------+--------------+------------+
 
 .. note::
   * Gradiance quizzes
@@ -179,21 +171,19 @@ Course Deliverables
     * Will be released every Wednesday at 9.00 AM EST
     * Due next Tuesday at 11.59 PM EST
     * Gradiance 0 will not be evaluated (warm up)
-    * Gradiance 6 will be released on March 11 but will be due on March 24 due to Spring Recess
 
-  * All assignments are electronically due on Fridays by 12.59 PM EST through UBLearns.
-  * Hard copies of assignment reports will be due in-class on Fridays before the end of the class.
+  * All assignments are electronically due on Fridays by 11.59 PM EST through UBLearns.
 
 Assignments (Tentative Schedule)
 ---------------------------------
   * Programming Assignment 1 - This assignment will focus on building linear models for supervised learning. This will include implementing a linear regression model for regression, and three classification models, viz., logistic regression, perceptron, and support vector machine (SVM).
-  * Programming Assignment 2 - In this assignment, your task is to implement a Multilayer Perceptron the neural network and evaluate its performance in classifying handwritten digits. You will also use the same network to analyze a more challenging hand-drawn images dataset and compare the performance of the neural network against a deep neural network using the TensorFlow library.
+  * Programming Assignment 2 - In this assignment, your task will be to explore non-linear machine learning models to learn from text and image data.
   * Programming Assignment 3 - This programming assignment has two parts. In the first part, you will implement a Naive Bayes Classifier and test it on a publicly available data set. In the second part, you will manipulate the data characteristics to understand how classifiers get impacted by the underlying bias in the training data. Focus will be on developing a COMPAS style risk assessment system. 
 
 Course Texts
 ---------------
-* Tom Mitchell, Machine Learning. McGraw-Hill, 1997.
 * Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012.
+* Tom Mitchell, Machine Learning. McGraw-Hill, 1997.
 * Chris Bishop, Pattern Recognition and Machine Learning, Springer, 2006.
 * David Mackay, Information Theory, Inference, and Learning Algorithms, Cambridge Press, 2003.
 * Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistical Learning. Springer, 2009.
@@ -203,8 +193,8 @@ Grading
 ---------
 * Short weekly quizzes using Gradiance (12) -- 20%
 * Programming Assignments (3) -- 45%
-* Mid-term Exam (in-class, open book/notes) -- 15%
-* Final Exam (in-class, open book/notes) -- 20%
+* Mid-term Exam (virtual-UBLearns, open book/notes) -- 15%
+* Final Exam (virtual-UBLearns, open book/notes) -- 20%
 * Final grade (*Tentative*)
 
 .. hlist::
@@ -221,12 +211,17 @@ Grading
 
 Exams
 ---------------
-* **Mid-term Exam** March 13, 1.00 PM - 2.00 PM, 20 Knox Hall
-* **Final Exam** May 15, 7.15 PM - 10.15 PM, 101 Davis Hall/114 Hoch Hall
+* **Mid-term Exam** March 19, 1.40 PM - 2.50 PM, virtually using UBLearns 
+* **Final Exam** May 14, 11.45 AM - 2.45 PM, virtually using UBLearns 
+
+.. note::
+   The mid-term will held during the regular Friday lecture.
 
 Expectations
 -------------
-* Students are expected to act in a professional manner. A student’s grade may be reduced due to unprofessional or disruptive behavior. Examples include coming to class late, texting (or otherwise using your cell phone) during class, your cell phone ringing during class and/or exams, etc.
+.. * Students are expected to act in a professional manner. A student’s grade may be reduced due to unprofessional or disruptive behavior. Examples include coming to class late, texting (or otherwise using your cell phone) during class, your cell phone ringing during class and/or exams, etc.
+
+* Students are expected to act in a professional manner during the virtual classes and office hours.
 * Programming assignments will be graded and returned to students.
 * :red:`Late submission of assignments will receive a grade of zero.`
 * :red:`No late submission of Gradiance quizzes are allowed. The quizzes will automatically become unavailable immediately after the due date and no accomodations will be made for missed quizzes.`
@@ -258,7 +253,8 @@ This course will operate with a zero-tolerance policy regarding cheating and oth
    You are allowed to:
 
    1. Have discussions about homeworks. Every student should submit own homework with names of students in the discussion group explicitly mentioned.
-   2. Collaborate in groups of 3 for programming assignments. One submission is required for each group.
+
+.. 2. Collaborate in groups of 3 for programming assignments. One submission is required for each group.
 
 .. warning:: 
    * Violation of ML honor code and departmental policy will result in an automatic F for the concerned submission

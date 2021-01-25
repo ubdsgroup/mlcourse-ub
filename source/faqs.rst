@@ -19,19 +19,19 @@ Where is the course syllabus?
 When does the course begin?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-       First class is on January 27th, 2019 (Monday) in Knox 20.
+       First class is on February 1st, 2021 (Monday), virtually on Zoom.
             
 What are the other resources I should be aware of?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-       The course website has links to all the resources that we will be using during the course. We will be using **Piazza** for all communications and announcements and **Gradiance** for the weekly quizzes. The `UBLearns <https://ublearns.blackboard.com/webapps/blackboard/execute/modulepage/view?course_id=_168080_1&cmp_tab_id=_188967_1&editMode=true&mode=cpview>`_ system will be used to manage assignment submissions and grades. The slides and handouts (for printing) are available `here <docs.html>`_. We have also prepared a `glossary <glossary.html>`_ of terms that you can refer to.
+       The course website has links to all the resources that we will be using during the course. We will be using **Piazza** for all communications and announcements and **Gradiance** for the weekly quizzes. The `UBLearns <https://ublearns.blackboard.com/ultra/courses/_179715_1/cl/outline>`_ system will be used to manage assignment submissions and grades. The slides and handouts (for printing) are available `here <docs.html>`_. We have also prepared a `glossary <glossary.html>`_ of terms that you can refer to.
 
        We will be using **Python** as the primary programming language. We will use Jupyter Notebooks for in-class demonstrations. The notebooks are available `here <https://nbviewer.jupyter.org/github/ubdsgroup/ubmlcourse/tree/master/notebooks/>`_. You can also check out the notebooks to your personal computers from `Github <https://github.com/ubdsgroup/ubmlcourse/tree/master/notebooks>`_.
 
 What do I need to do before class starts?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-       * Sign-up for `Piazza <https://piazza.com>`_ (if you do not have an account aready) and enroll into the `CSE 474/574 class <https://piazza.com/class/jqo5zrstnwu67k>`_.
+       * Sign-up for `Piazza <https://piazza.com>`_ (if you do not have an account aready) and enroll into the `CSE 474/574 class <https://piazza.com/class/kk30vp9jbd4n1>`_.
        * Confirm that the class shows up in your `UBLearns account <https://ublearns.buffalo.edu>`_.
        * Create an account on `Gradiance <http://www.newgradiance.com/services/servlet/COTC?Command=ShowCreateAccountForm>`_.
 
@@ -40,7 +40,7 @@ What do I need to do before class starts?
 
           Improper usernames could result in incorrect assignment of grades.
        
-       * Add the CSE 474/574 class on Gradiance using this token **BA9DA0EA**. Will be available on Jan 27th at 9.00 AM.
+       * Add the CSE 474/574 class on Gradiance using this token **14C9F9A9**. Will be available on Feb 1st at 9.00 AM.
           
 How do I contact the instructors?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -87,7 +87,7 @@ Is in-class attendance mandatory?
 Will class videos be posted?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-      Yes, they will be available within the class `UBLearns <https://ublearns.blackboard.com/webapps/blackboard/execute/modulepage/view?course_id=_168080_1&cmp_tab_id=_188967_1&editMode=true&mode=cpview>`_ website. Look out for a **Panopto Recordings** link on that page. Videos are typically available within 2 hours of the class.
+      Yes, they will be available within the class `UBLearns <https://ublearns.blackboard.com/ultra/courses/_179715_1/cl/outline>`_ website. Look out for a **Panopto Recordings** link on that page. Videos are typically available within 2 hours of the lecture.
 
 
 Gradiance
@@ -102,7 +102,7 @@ How do I enroll?
 
       .. warning:: 
          Make sure you use your UBIT name as your username. Any other accounts will be deleted!
-      * After creating your account, add the class using token **BA9DA0EA**.
+      * After creating your account, add the class using token **14C9F9A9**.
 
 How does it work?
 ~~~~~~~~~~~~~~~~~
