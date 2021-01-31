@@ -23,6 +23,7 @@ Instructors
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
 * Deen Dayal Mohan (TA; dmohan[at]buffalo.edu)
+* Seokmin Choi (TA; seokminc[at]buffalo.edu)
 * Jie Zhang (TA; zhang326[at]buffalo.edu)
 
 .. note::
@@ -46,8 +47,9 @@ Office Hours
    :widths: 20, 40, 30
 
    "Chandola", "Fridays 3.00 PM - 5.00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_
-   "Deen","TBA", "TBA"
-   "Jie","TBA", "TBA"
+   "Deen","Thursdays 2.30 PM - 3.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_ 
+   "Seokmin","TBA", "TBA"
+   "Jie","Mondays 6.30 PM - 7.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_ 
 
 Prerequisites
 ---------------
