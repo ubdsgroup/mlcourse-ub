@@ -39,6 +39,7 @@ Every Monday, Wednesday and Friday - 1.40 to 2.50 PM, virtually on `Zoom <https:
 
 .. note::
    All lecture videos will be made available after the class. The links will be posted on Piazza and also available `here <lecturevideos.html>`_.
+   Please ensure that your video is turned off and the microphone is on mute. Use the zoom reactions and chat to interact with the instructor.
 
 Office Hours
 ------------
