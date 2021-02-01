@@ -11,7 +11,7 @@ Links will be added here as the course progresses.
    :header: "Week","Monday","Wednesday","Friday"
    :widths: 10,15,15,15
 
-   "*Week 1*",Feb 01 ,Feb 03 ,Feb 05 
+   "*Week 1*",`Feb 01 <https://buffalo.zoom.us/rec/share/7bdgB0R1_ZLcH_xqliKhWLJ0UuymbwOLtC5VLjKZCfbW5CiliEyyALbzwrDVE_hS.1QEnV-TUchiFKio1>`_,Feb 03 ,Feb 05 
    "*Week 2*",Feb 08 ,Feb 10 ,Feb 12 
    "*Week 3*",Feb 15 ,Feb 17 ,Feb 19 
    "*Week 4*",Feb 22 ,Feb 24 ,Feb 26 
