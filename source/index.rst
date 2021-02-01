@@ -6,6 +6,7 @@ CSE474/574
    :caption: Contents:
 
    syllabus
+   lecturevideos
    docs 
    faqs
    glossary
