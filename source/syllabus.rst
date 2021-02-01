@@ -35,7 +35,7 @@ https://cse.buffalo.edu/~chandola/machinelearning.html
 
 Meeting times and locations
 ----------------------------
-Every Monday, Wednesday and Friday - 1.40 to 2.50 PM, virtually on `Zoom <https://buffalo.zoom.us/j/95608261824>`_ 
+Every Monday, Wednesday and Friday - 1.50 to 2.40 PM, virtually on `Zoom <https://buffalo.zoom.us/j/95608261824>`_ 
 
 .. note::
    All lecture videos will be made available after the class. The links will be posted on Piazza and also available `here <lecturevideos.html>`_.
