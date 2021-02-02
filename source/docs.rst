@@ -6,10 +6,10 @@
 Documents
 ====================================================================
 .. note::
-   The *handouts* have all the content that the *slides* have, along with some additional discussion which is not on the slides. If you want to save these for future use or for printing, please use the handouts and **not** the slides. The environment will thank you!
+   The *handouts* have all the content that the *slides* have, along with some additional discussion which is not on the slides. If you want to save these for future use or for printing, please use the handouts and **not** the slides.
 
 .. list-table:: 
-   :widths: 25 50
+   :widths: 40 35
    :header-rows: 1
 
    * - Topic 
