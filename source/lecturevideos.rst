@@ -11,7 +11,7 @@ Links will be added here as the course progresses.
    :header: "Week","Monday","Wednesday","Friday"
    :widths: 10,15,15,15
 
-   "*Week 1*",`Feb 01 <https://buffalo.zoom.us/rec/share/XfTA_tYRTFFfjLKjQzrNjbetRqGZcpeCYuP9jqWiVJ2hcDGvE4fY8ezpmRr_stk.aVAFkVffQS-pqqfl?startTime=1612205376000>`_,Feb 03 ,Feb 05 
+   "*Week 1*",`Feb 01 <https://buffalo.zoom.us/rec/share/XfTA_tYRTFFfjLKjQzrNjbetRqGZcpeCYuP9jqWiVJ2hcDGvE4fY8ezpmRr_stk.aVAFkVffQS-pqqfl?startTime=1612205376000>`_,`Feb 03 <https://buffalo.zoom.us/rec/share/EUlXD6sdePaf4VY0ZuPIIVQ7Qj4WltFLJ7kJReN2Y9lCWU8lZ3yNaKQqqZa4fI1-.rki53kGeQJwQAS0a>`_,Feb 05 
    "*Week 2*",Feb 08 ,Feb 10 ,Feb 12 
    "*Week 3*",Feb 15 ,Feb 17 ,Feb 19 
    "*Week 4*",Feb 22 ,Feb 24 ,Feb 26 

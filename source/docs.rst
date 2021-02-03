@@ -15,7 +15,7 @@ Documents
    * - Topic 
      - Documents 
    * - ML Basics
-     - :download:`slides <intro-beamer.pdf>`  
+     - :download:`slides <intro-beamer.pdf>` 
    * - **Supervised Learning::Linear Models**
      - 
    * - Linear Regression
