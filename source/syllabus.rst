@@ -25,6 +25,7 @@ Instructors
 * Deen Dayal Mohan (TA; dmohan[at]buffalo.edu)
 * Seokmin Choi (TA; seokminc[at]buffalo.edu)
 * Jie Zhang (TA; zhang326[at]buffalo.edu)
+* Enshu Wang (TA; enshuwan[at]buffalo.edu)
 
 .. note::
    Students are strongly encouraged to use the Piazza's private messaging option to contact the intructors to ensure that the messages are dealt with promptly. 
@@ -51,6 +52,7 @@ Office Hours
    "Deen","Thursdays 2.30 PM - 3.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_ 
    "Seokmin","Mondays 9.00 AM - 10.00 AM", `Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_
    "Jie","Mondays 6.30 PM - 7.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_ 
+   "Enshu","Tuesdays 1:00 PM - 2:00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/97158552112?pwd=WkszZHE3QWZPaEdQM1ZmbjRQVmlHdz09>`_ 
 
 Prerequisites
 ---------------
