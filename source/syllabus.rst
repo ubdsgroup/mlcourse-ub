@@ -49,9 +49,9 @@ Office Hours
    :widths: 20, 40, 30
 
    "Chandola", "Fridays 3.00 PM - 5.00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_
-   "Deen","Thursdays 2.30 PM - 3.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_ 
+   "Deen","Mondays 6.30 PM - 7.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_ 
    "Seokmin","Mondays 9.00 AM - 10.00 AM", `Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_
-   "Jie","Mondays 6.30 PM - 7.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_ 
+   "Jie","Thursdays 2.30 PM - 3.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_ 
    "Enshu","Tuesdays 1:00 PM - 2:00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/97158552112?pwd=WkszZHE3QWZPaEdQM1ZmbjRQVmlHdz09>`_ 
 
 Prerequisites
