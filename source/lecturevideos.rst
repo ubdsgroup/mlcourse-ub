@@ -12,7 +12,7 @@ Links will be added here as the course progresses.
    :widths: 10,15,15,15
 
    "*Week 1*",`Feb 01 <https://buffalo.zoom.us/rec/share/XfTA_tYRTFFfjLKjQzrNjbetRqGZcpeCYuP9jqWiVJ2hcDGvE4fY8ezpmRr_stk.aVAFkVffQS-pqqfl?startTime=1612205376000>`_,`Feb 03 <https://buffalo.zoom.us/rec/share/EUlXD6sdePaf4VY0ZuPIIVQ7Qj4WltFLJ7kJReN2Y9lCWU8lZ3yNaKQqqZa4fI1-.rki53kGeQJwQAS0a>`_,`Feb 05 <https://buffalo.zoom.us/rec/share/50mWjI_9orUWw5xvTbKN08DNxlfkMZXAqXjLwAvfz0Oun_ThOvd8TxbLH2-NqZKx.ajvhGzWLUFPLBRW7>`_ 
-   "*Week 2*",`Feb 08 <https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4de1686-2f8c-4217-bd5a-acc90154a72e>`_,Feb 10 ,Feb 12 
+   "*Week 2*",`Feb 08 <https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4de1686-2f8c-4217-bd5a-acc90154a72e>`_,`Feb 10 <https://buffalo.zoom.us/rec/share/GW7ZGrZoOq7syqv0WYU7YsnRMUEpXraXmS1JZOeZ0djf53v60b9J80OThLV-46xk.nF9a-u34EARSJyco>`_ ,Feb 12 
    "*Week 3*",Feb 15 ,Feb 17 ,Feb 19 
    "*Week 4*",Feb 22 ,Feb 24 ,Feb 26 
    "*Week 5*",Mar 01 ,Mar 03 ,Mar 05 
