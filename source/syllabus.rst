@@ -49,7 +49,7 @@ Office Hours
    :widths: 20, 40, 30
 
    "Chandola", "Fridays 3.00 PM - 5.00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_
-   "Deen","Mondays 6.30 PM - 7.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/94867240117?pwd=NGxCNFgzcUVnYjVoalpJQkczNTNjZz09>`_ 
+   "Deen","Mondays 6.30 PM - 7.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/93559888708?pwd=bTNTNUJWTEpRQVRJQ1lSM0o0NmFqZz09>`_ 
    "Seokmin","Mondays 9.00 AM - 10.00 AM", `Virtually on Zoom <https://buffalo.zoom.us/j/6212210589?pwd=akI3ZDhmRU1oVDBzRFdLR2l5Rkl2QT09>`_
    "Jie","Thursdays 2.30 PM - 3.30 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/93717120120?pwd=S3g3KytBYkljMWdhQlNlL0k2KzNDQT09>`_ 
    "Enshu","Tuesdays 1:00 PM - 2:00 PM",`Virtually on Zoom <https://buffalo.zoom.us/j/97158552112?pwd=WkszZHE3QWZPaEdQM1ZmbjRQVmlHdz09>`_ 
