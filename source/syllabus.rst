@@ -211,7 +211,7 @@ Grading
 
 Exams
 ---------------
-* **Mid-term Exam** March 19, 1.40 PM - 2.50 PM, virtually using UBLearns 
+* **Mid-term Exam** March 19, 1.50 PM - 2.40 PM, virtually using UBLearns 
 * **Final Exam** May 14, 11.45 AM - 2.45 PM, virtually using UBLearns 
 
 .. note::
