@@ -20,7 +20,7 @@ Links will be added here as the course progresses.
    "*Week 7*",`Mar 15 <https://buffalo.zoom.us/rec/share/IVBW4up55a0kP-qnh_lwJCmf8NJ2iPcL4Eklsbw-Ob7sBS4iWaeQtewZ4fa02XgF.8um1oOaAHKliY36f>`_ ,`Mar 17 <https://buffalo.zoom.us/rec/share/clg4wEYX24RutarVnOduAgSlnuJFAw-4XOZBn2aV1gxwEzwUY6ld0iqCN2pxNJ5b._AHN9H-_tkwHezFO>`_ ,Mar 19 
    "*Week 8*",`Mar 22 <https://buffalo.zoom.us/rec/share/_4uFvutK8MWEn_ZW25f19qXX5mLY1moqPFnHnfex_SoV9NbB_njOSjH-D90mhka1.HDDALV0RpZAg8NnE>`_ ,`Mar 24 <https://buffalo.zoom.us/rec/share/3xldBNAusaeBTsTeS-Xp8pwo_FBM3X_jNMWQX5PCOCTFhuTlU0cZd2fv9HiVAvr7.XokpN_HBweo9Dmnd>`_ ,`Mar 26 <https://buffalo.zoom.us/rec/share/x9JSs46OLAYmzGe1hVjsYC7OSG1xYP62t1Q4S4FQgL5pE3jFeAjuEcV2JijPxFk7.pGINB3D6fKFvDqys>`_ 
    "*Week 9*",`Mar 29 <https://buffalo.zoom.us/rec/share/5calg04Aq7VEDyUI_tDtyJR_4z4kQCGVXAZwyRFR8DAzNRyplmFYex95TS0cMjs.LB8ljbe7KwlynTJg>`_,`Mar 31 <https://buffalo.zoom.us/rec/share/5Xq3gXbvWqRH9D4-pxfjH7lkIGRQvQQyq5AEQXz_abpj8J9rG4kZh8SbT9oGLvNI.WM0Gx97LTW55xRgU>`_ ,`Apr 02 <https://buffalo.zoom.us/rec/share/_Ice57XH85huzvGMS48joGOq8N_IQ9UV2NApneLx2t54CDNzuR7PMaKr0jrDZYfa.n3C2l9DdjzQrbOU2>`_ 
-   "*Week 10*",Apr 05 ,Apr 07 ,Apr 09 
+   "*Week 10*",`Apr 05 <https://buffalo.zoom.us/rec/share/DGmMoLeuG_abeU70o5orD2IvmQnaxNaiIh9Ho-e8pLeJxvQhi2xGPvUF_2JqTIEp.6HVvZp9VpvltJbfh>`_ ,Apr 07 ,Apr 09 
    "*Week 11*",Apr 12 ,Apr 14 ,Apr 16 
    "*Week 12*",Apr 19 ,Apr 21 ,Apr 23 
    "*Week 13*",Apr 26 ,Apr 28 ,Apr 30 
