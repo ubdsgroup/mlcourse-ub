@@ -60,13 +60,3 @@ Documents
      - :download:`slides <clustering-algorithms-beamer.pdf>` :download:`handouts <clustering-algorithms-handout.pdf>` :download:`scans <clustering-algorithms-scans.pdf>`
    * - Principal Component Analysis 
      - :download:`slides <principal-component-analysis-beamer.pdf>` :download:`handouts <principal-component-analysis-handout.pdf>` :download:`scans <principal-component-analysis-scans.pdf>`
-   * - Singular Value Decomposition 
-     - :download:`slides <singular-value-decomposition-beamer.pdf>` :download:`handouts <singular-value-decomposition-handout.pdf>` :download:`scans <singular-value-decomposition-scans.pdf>`
-   * - **Reinforcement Learning**
-     -
-   * - Reinforcement Learning Introduction
-     - :download:`slides <reinforcement-learning-beamer.pdf>` :download:`handouts <reinforcement-learning-handout.pdf>` :download:`scans <reinforcement-learning-scans.pdf>`
-   * - **Machine Learning Best Practices**
-     -
-   * - Machine Learning Best Practices
-     - :download:`slides <ml-advice-beamer.pdf>` :download:`handouts <ml-advice-handout.pdf>` :download:`scans <ml-advice-scans.pdf>` 
